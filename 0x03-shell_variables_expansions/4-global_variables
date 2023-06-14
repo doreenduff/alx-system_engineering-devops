@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Environment Variables:"
+echo $environment_variable
